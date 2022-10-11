@@ -48,7 +48,7 @@ Through this profile you can join in on my learning adventure! 🗺️
 ### 🔥Streak & Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p>
+<p align="center">
   <a href="https://github.com/gingervi/github-readme-streak-stats">
     <img alt="gingervi's streak" src="https://streak-stats.demolab.com/?user=gingervi&theme=jolly&hide_border=true"/>
   </a>
