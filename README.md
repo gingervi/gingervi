@@ -4,7 +4,7 @@
 
 ### 👀 About me 
 
-Hi, I'm <i>Virginia</i>! I'm currently studying for my bachelor's degree in <em>Computer Science at Politecnico di Milano</em>. <br>
+Hi, I'm <i>Virginia</i>! I'm currently a Master's degree student in <em>Computer Science at Politecnico di Milano</em>. <br>
 Graphics, videogames, languages and film photography are just some of the many things I like to learn about. <br> Hopefully one day I'll work on <b>my own game</b> with the skills I'm harvesting.
 
 Through this profile you can join in on my learning adventure! 🗺️
