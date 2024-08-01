@@ -33,6 +33,7 @@ Through this profile you can join in on my learning adventure! 🗺️
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/-Unity-5865F2.svg?logo=discord&logoColor=white"></a>
 </p>
 
 #
@@ -41,6 +42,7 @@ Through this profile you can join in on my learning adventure! 🗺️
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <img alt="Vue3" src="https://img.shields.io/badge/Vue-14354C.svg?logo=python&logoColor=white">
 </p>
     
 #
